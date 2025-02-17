@@ -5,7 +5,7 @@
 
 #### [Пояснительная записка](https://github.com/nightcarpenter/Spline/blob/main/Spline.pdf)
 
-#### [Исходный код программыъ()
+#### [Исходный код программы](https://github.com/nightcarpenter/Spline/blob/main/spline.php)
 
 #### Пример работы программы:
 
