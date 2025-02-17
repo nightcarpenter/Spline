@@ -9,4 +9,4 @@
 
 #### Пример работы программы:
 
-![]()
+![Пример работы программы](https://github.com/nightcarpenter/Spline/blob/main/spline.jpg)
